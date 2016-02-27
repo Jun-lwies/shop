@@ -1,0 +1,24 @@
+[ 2016-01-08T15:07:20+08:00 ] ::1 /shop/admin.php/0.path.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:0.path
+
+[ 2016-01-08T15:07:38+08:00 ] ::1 /shop/admin.php/0path.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:0path
+
+[ 2016-01-08T15:07:55+08:00 ] ::1 /shop/admin.php/0path.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:0path
+
+[ 2016-01-08T15:08:27+08:00 ] ::1 /shop/admin.php/0path.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:0path
+
